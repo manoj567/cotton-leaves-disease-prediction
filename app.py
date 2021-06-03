@@ -34,7 +34,7 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 
 # Model saved with Keras model.save()
-MODEL_PATH =r'F:\projects\cotton disease pro\trained model\cotton_disease_prediction.h5'
+MODEL_PATH ='cotton_disease_prediction.h5'
 
 # Load your trained model
 model = load_model(MODEL_PATH)
