@@ -38,7 +38,7 @@ cffi==1.14.3
 chardet==3.0.4
 click==7.1.2
 cloudpickle==1.4.1
-conda==4.10.1
+conda==4.3.16
 conda-build==3.20.5
 conda-verify==3.4.2
 ConfigArgParse==0.13.0
